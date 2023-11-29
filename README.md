@@ -43,6 +43,8 @@ Estou ingressando na area de desenvolvedor Full Stack apaixonado por criar exper
 #### Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sidneyhenriquedev&show_icons=true&theme=radical)
 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sidneyhenriquedev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sidney-henrique/)
 
