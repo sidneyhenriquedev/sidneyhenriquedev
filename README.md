@@ -27,6 +27,19 @@ Estou ingressando na area de desenvolvedor Full Stack apaixonado por criar exper
   <!-- Adicione outras ferramentas e ambientes aqui -->
 </p>
 
+### Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?sidneyhenriquedev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyhenriquedev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contribuições no Último Ano
+
+[![Contribuições no GitHub no último ano](https://github-readme-stats.vercel.app/api?username=sidneyhenriquedev&hide=prs&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sidneyhenriquedev&show_icons=true&theme=radical)
 
