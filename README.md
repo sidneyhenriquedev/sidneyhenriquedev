@@ -1,6 +1,6 @@
 ### Olá, Me Chamo Sidney Henrique! 👋
 
-Sou estou ingressando na area de desenvolvedor Full Stack apaixonado por criar experiências web inovadoras e eficientes. Abaixo estão algumas das tecnologias que trabalho:
+Estou ingressando na area de desenvolvedor Full Stack apaixonado por criar experiências web inovadoras e eficientes. Abaixo estão algumas das tecnologias que trabalho:
 
 #### Linguagens de Programação:
 <p>
