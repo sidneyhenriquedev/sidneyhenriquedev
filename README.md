@@ -15,7 +15,7 @@ Estou ingressando na area de desenvolvedor Full Stack apaixonado por criar exper
 
 #### Frameworks e Bibliotecas:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 
   <!-- Adicione outros frameworks ou bibliotecas aqui -->
