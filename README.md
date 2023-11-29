@@ -1,4 +1,4 @@
-<div style="display:none">
+<div style="text-aling:center;">
   ### Olá, Me Chamo Sidney Henrique! 👋
 
 Estou ingressando na área de desenvolvimento Full Stack, apaixonado por criar experiências web inovadoras e eficientes. Abaixo estão algumas das tecnologias que trabalho:
