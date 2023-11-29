@@ -1,4 +1,4 @@
-<div style="text-aling:center;">
+
   ### Olá, Me Chamo Sidney Henrique! 👋
 
 Estou ingressando na área de desenvolvimento Full Stack, apaixonado por criar experiências web inovadoras e eficientes. Abaixo estão algumas das tecnologias que trabalho:
@@ -42,5 +42,3 @@ Estou ingressando na área de desenvolvimento Full Stack, apaixonado por criar e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sidney-henrique/)
 
 <!-- Adicione outras seções conforme necessário -->
-
-</div>
