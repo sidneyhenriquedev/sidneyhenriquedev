@@ -2,7 +2,7 @@
 
 Estou ingressando na area de desenvolvedor Full Stack apaixonado por criar experiências web inovadoras e eficientes. Abaixo estão algumas das tecnologias que trabalho:
 
-#### Linguagens de Programação:
+#### Principais Linguagens:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
