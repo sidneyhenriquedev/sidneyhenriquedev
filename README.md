@@ -25,10 +25,6 @@ Estou ingressando na área de desenvolvimento Full Stack, apaixonado por criar e
   <!-- Adicione outras ferramentas e ambientes aqui -->
 </p>
 
-### Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sidneyhenriquedev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Linguagens Mais Usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyhenriquedev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
